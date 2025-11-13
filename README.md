@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RufusRJ" alt="RufusRJ" /></a> </p>
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=RufusRJ&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 - 🔭 I’m currently working on **Yolo analytics Tracker**
 
 - 🌱 I’m currently learning **AI/ML, Cyber Security**
