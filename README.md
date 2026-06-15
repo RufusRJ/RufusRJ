@@ -2,10 +2,10 @@
 <h3 align="center">IT engineer from India</h3>
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=RufusRJ)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rufusrj&label=Profile%20views&color=0e75b6&style=flat" alt="rufusrj" /> </p>
 
----
-[![](https://komarev.com/ghpvc/?username=RufusRJ&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RufusRJ" alt="RufusRJ" /></a> </p>
+
 
 - 🔭 I’m currently working as na AI/ML Intern at aviominds
 
