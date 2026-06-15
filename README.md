@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rufus Ebenezer</h1>
 <h3 align="center">IT engineer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rufusrj&label=Profile%20views&color=0e75b6&style=flat" alt="rufusrj" /> </p>
+<p align="left"> [![trophy](https://github-profile-trophy.vercel.app/?username=RufusRJ)](https://github.com/ryo-ma/github-profile-trophy)</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RufusRJ" alt="RufusRJ" /></a> </p>
-
-- 🔭 I’m currently working on **Yolo analytics Tracker**
+- 🔭 I’m currently working as na AI/ML Intern at aviominds
 
 - 🌱 I’m currently learning **AI/ML, Cyber Security**
 
